@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    background-color: #c7e9ed;
+    font-family: Tahoma, monospace;
+}
+.head_container {
+    background-color: #e2b99a;
+    padding: 1rem 1rem 0.5rem;
+}
+
+h2 {
+
+    text-align: center;
+
+    font-family: Arial;
+}
+
+.input_form {
+    border-radius: 0.3rem;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.container_operaciones {
+    margin:2rem;
+    padding: 3rem;
+}
+.btn {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+
+}
+.btn:hover {
+    background-color: #7bebf5;
+}
+.container_valor {
+    margin-top: 2rem;
+    padding: 1rem;
+}
+.container_button{
+    grid-auto-columns: 1fr;
+    gap:1rem;
+}
